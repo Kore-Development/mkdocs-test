@@ -12,3 +12,5 @@ repo_url: 'https://github.com/Kore-Development/mkdocs-test'
 markdown_extensions:
   - admonition
   - codehilite
+  - toc:
+      permalink: true
