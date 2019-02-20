@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: 'material'
+  palette:
+    primary: 'purple'
+    accent: 'purple'
+  logo:
+    icon: 'help'
+  favicon: 'assets/images/favicon.ico'
