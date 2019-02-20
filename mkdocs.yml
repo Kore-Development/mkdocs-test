@@ -7,3 +7,5 @@ theme:
   logo:
     icon: 'help'
   favicon: 'assets/images/favicon.ico'
+  repo_name: 'Kore-Development/mkdocs-test'
+  repo_url: 'https://github.com/Kore-Development/mkdocs-test'
