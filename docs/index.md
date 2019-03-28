@@ -6,5 +6,5 @@ $$
 4+4=8
 $$
 
-## My Friends
+## My Friends and Me
 ![](https://cdn.pqtato.pw/minotar.net/helm/2f9eab98cffa4ed5be8e30a769362adb/64.png)![](https://cdn.pqtato.pw/minotar.net/helm/60a25e8054804c3d8bcbf9f129e3f675/64.png)![](https://cdn.pqtato.pw/minotar.net/helm/6cecd44771bb41d2af2923755c49ec5e/64.png)![](https://cdn.pqtato.pw/minotar.net/helm/59c212ef8bd5407f9e37b6ab95f9eff3/64.png)
