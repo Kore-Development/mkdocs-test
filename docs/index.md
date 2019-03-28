@@ -5,3 +5,5 @@ This documentation will be for testing [MkDocs](https://www.mkdocs.org/) and [Ma
 $$
 4+4=8
 $$
+
+![](https://cdn.pqtato.pw/minotar.net/helm/Pqtato99/64.png)
